@@ -1,0 +1,42 @@
+[
+    {
+        "emri": "Hamburger",
+        "pershkrimi": "Hamburger me patate",
+        "cmimi": 1.5,
+        "kuGjindet": "Route 66",
+        "kohaEPritjes": 3,
+        "fotoja": "burger"
+    },
+    {
+        "emri": "Pasta",
+        "pershkrimi": "Pasta me sos domatesh",
+        "cmimi": 4,
+        "kuGjindet": "Restaurant Gresa",
+        "kohaEPritjes": 8,
+        "fotoja": "pasta"
+    },
+    {
+        "emri": "Doner",
+        "pershkrimi": "Doner me mish pule",
+        "cmimi": 1.5,
+        "kuGjindet": "Tatlises Doner",
+        "kohaEPritjes": 1,
+        "fotoja": "doner"
+    },
+    {
+        "emri": "Pizza",
+        "pershkrimi": "Pizza me djathe dhe sos domatesh",
+        "cmimi": 4.5,
+        "kuGjindet": "Propper Pizza",
+        "kohaEPritjes": 5,
+        "fotoja": "pizza"
+    },
+    {
+        "emri": "Steak",
+        "pershkrimi": "Steak vici pergaditur me patate dhe sallate",
+        "cmimi": 9,
+        "kuGjindet": "Restaurant Adriatik",
+        "kohaEPritjes": 15,
+        "fotoja": "steak"
+    }
+]

@@ -1,0 +1,10 @@
+[
+  {id: 004, emri: 'Charmander', lloji: 'fire', eksperianca_baze: 62},
+  {id: 007, emri: 'Squirtle', lloji: 'water', eksperianca_baze: 63},
+  {id: 011, emri: 'Metapod', lloji: 'bug', eksperianca_baze: 72},
+  {id: 012, emri: 'Butterfree', lloji: 'flying', eksperianca_baze: 178},
+  {id: 025, emri: 'Pikachu', lloji: 'electric', eksperianca_baze: 112},
+  {id: 039, emri: 'Jigglypuff', lloji: 'normal', eksperianca_baze: 95},
+  {id: 094, emri: 'Gengar', lloji: 'poison', eksperianca_baze: 225},
+  {id: 133, emri: 'Eevee', lloji: 'normal', eksperianca_baze: 65}
+]
